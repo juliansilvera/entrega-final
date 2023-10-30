@@ -1,0 +1,29 @@
+/* Servicios */
+
+.container #op_servicio {
+    text-align: center;
+    color: #000000;
+    font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.elementos {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.contenedorServicios {
+    display: flex;
+    justify-content: space-between;
+    padding: 2rem;
+    width: 640px;
+    height: 640px;
+}
+
+.servicio_imagen {
+    display: flex;
+    justify-content: space-between;
+    width: 577px;
+    height: 577px;
+}

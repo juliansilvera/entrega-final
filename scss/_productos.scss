@@ -1,0 +1,57 @@
+/* Productos */
+
+.contenedorProductos {
+    margin: 20px;
+    border: 4px solid black;
+    border-radius: 10px;
+    width: 360px;
+    height: 400px;
+    overflow: hidden;
+    margin-bottom: 20px;
+  }
+  
+  .imgProductos {
+    display: block;
+    width: 100%;
+    height: 100%;
+  }
+  
+  .contenedorProductos {
+    background-color: #ffd39a;
+    color: #000000;
+    text-align: center;
+    padding: 30px;
+    font-weight: bold;
+    font-size: 1.2rem;
+    text-transform: uppercase;
+    max-width: 500px;
+    margin: 20px;
+  }
+  
+  #fotos_productos {
+    display: flex;
+    align-items: center;
+  }
+  
+  .productos {
+    display: flex;
+    flex-flow: row wrap;
+  }
+  
+  #textoempanadas, #textoravioles, #textotallarines {
+    font-weight: bold;
+    margin-bottom: 10px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #000000;
+  }
+  
+  .textosproductos {
+    background-color: #ffd39a;
+    display: flex;
+    flex-flow: row;
+    padding: 10px;
+    column-gap: 5px;
+    border: 5px solid;
+    border-radius: 5px;
+  }
+  
