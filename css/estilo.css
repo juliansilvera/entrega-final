@@ -458,7 +458,7 @@ footer {
 
 /* "hero" en dispositivos móviles */
 
-@media screen and (max-width: 1150px) {
+@media screen and (max-width: 1650px) {
     .hero {
         height: auto;
         background-attachment: scroll;
